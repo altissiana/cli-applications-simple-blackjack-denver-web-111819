@@ -57,5 +57,5 @@ def runner()
   display_card_total(card_total)
   while card_total > 21
   end_game(card_total)
-end
+  end
 end    
